@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Victo\\Desktop\\Algoritmos\\csharp\\csharp.csproj",
+      "projectUniqueName": "C:\\Users\\Victo\\Desktop\\Algoritmos\\csharp\\Algoritmo_pilha\\csharp.csproj",
       "projectName": "csharp",
-      "projectPath": "C:\\Users\\Victo\\Desktop\\Algoritmos\\csharp\\csharp.csproj",
+      "projectPath": "C:\\Users\\Victo\\Desktop\\Algoritmos\\csharp\\Algoritmo_pilha\\csharp.csproj",
       "packagesPath": "C:\\Users\\Victo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Victo\\Desktop\\Algoritmos\\csharp\\obj\\",
+      "outputPath": "C:\\Users\\Victo\\Desktop\\Algoritmos\\csharp\\Algoritmo_pilha\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Victo\\AppData\\Roaming\\NuGet\\NuGet.Config"
